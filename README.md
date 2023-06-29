@@ -1,4 +1,5 @@
-Amazon Website Clone
+**Amazon Website Clone**
+
 This repository contains a clone of the popular e-commerce website Amazon. The clone aims to replicate the user interface and basic functionality of the Amazon website, providing a similar experience for users.
 
 Features
